@@ -14,5 +14,6 @@
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1281_Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1920_Build%20Array%20from%20Permutation.java)|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1929_Concatenation%20of%20Array.java)|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1480_Running%20Sum%20of%201d%20Array.java)|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/429_N-ary%20Tree%20Level%20Order%20Traversal.java)|
 
