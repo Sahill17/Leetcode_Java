@@ -22,5 +22,6 @@
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/485_Max%20Consecutive%20Ones.java)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)|
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1389_Create%20Target%20Array%20in%20the%20Given%20Order.java)|
+|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1832_Check%20if%20the%20Sentence%20Is%20Pangram.java)|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/429_N-ary%20Tree%20Level%20Order%20Traversal.java)|
 
