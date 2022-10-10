@@ -6,4 +6,4 @@
 
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
-| 1 | [ Two-Sum ](https://leetcode.com/problems/two-sum/) | Array | Easy | [ Java ](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1.Two%20Sum) |
+| 1 | [Two-Sum](https://leetcode.com/problems/two-sum/) | Array | Easy | [Java](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1.Two%20Sum)|
