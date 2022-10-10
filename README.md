@@ -6,7 +6,8 @@
 
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
-| 1 |[Two-Sum](https://leetcode.com/problems/two-sum/) |Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1.Two%20Sum)|
+| 1 |[Two-Sum](https://leetcode.com/problems/two-sum/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1.Two%20Sum)|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/561_Array%20Partition)|
+|2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|Sum|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/2235_%20Add%20Two%20Integers)|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/tree/main/Medium)|
 
