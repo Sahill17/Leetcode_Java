@@ -7,3 +7,4 @@
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
 | 1 | [Two-Sum](https://leetcode.com/problems/two-sum/) | Array | Easy | [Java](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1.Two%20Sum)|
+|429| [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| Tree | Medium | [Java](https://github.com/SahilRathod17/Leetcode_Java/tree/main/Medium)|
