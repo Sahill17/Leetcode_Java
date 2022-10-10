@@ -4,7 +4,7 @@
    
 #Problems & Solutiuons 
 
-<table border="1">
+<table border="1" style="width="100",hight="100"">
 <tr>
 <th>#</th>
 <th>Title</th>
