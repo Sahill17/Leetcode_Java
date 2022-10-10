@@ -10,5 +10,6 @@
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/561_Array%20Partition)|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|Sum|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/2235_%20Add%20Two%20Integers)|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1295_Find%20Numbers%20with%20Even%20Number%20of%20Digits)|
+|1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1672_Richest%20Customer%20Wealth)|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/tree/main/Medium)|
 
