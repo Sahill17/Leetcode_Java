@@ -4,10 +4,6 @@
    
 #Problems & Solutiuons 
 
-<table border="1" style="width="100",hight="100"">
-<tr>
-<th>#</th>
-<th>Title</th>
-<th>Solution</th>
-<th>Difficulty</th>
-</tr>
+| # | Problem | Category | Difficulty | Solution |
+| --- | --- | --- | --- | --- |
+| 1 | [ Two-Sum ] (https://leetcode.com/problems/two-sum/) | Array | Easy | [ Java ] () |
