@@ -6,7 +6,7 @@
 
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
-| 1 |[Two-Sum](https://leetcode.com/problems/two-sum/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1.Two%20Sum)|
+| 1 |[Two-Sum](https://leetcode.com/problems/two-sum/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1_Two%20Sum.java)|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/561_Array%20Partition)|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|Sum|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/2235_%20Add%20Two%20Integers)|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1295_Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|
