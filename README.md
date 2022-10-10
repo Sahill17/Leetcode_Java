@@ -19,5 +19,6 @@
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1470_Shuffle%20the%20Array.java)|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/804_Unique%20Morse%20Code%20Words.java)|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1512_Number%20of%20Good%20Pairs.java)|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/485_Max%20Consecutive%20Ones.java)|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/429_N-ary%20Tree%20Level%20Order%20Traversal.java)|
 
