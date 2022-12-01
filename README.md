@@ -30,5 +30,6 @@
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|Array|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/659_Split%20Array%20into%20Consecutive%20Subsequences.java)
 |871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|Array, DP|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/871_Minimum%20Number%20of%20Refueling%20Stops.java)
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|Array, String|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1773_Count%20Items%20Matching%20a%20Rule.java)
+|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|Array, Prfix Sum|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1732_Find%20the%20Highest%20Altitude.java)
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/429_N-ary%20Tree%20Level%20Order%20Traversal.java)|
 
