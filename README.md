@@ -24,5 +24,6 @@
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1389_Create%20Target%20Array%20in%20the%20Given%20Order.java)|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|Array|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1832_Check%20if%20the%20Sentence%20Is%20Pangram.java)|
 |1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|Array|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/1338_Reduce%20Array%20Size%20to%20The%20Half.java)|
+|659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|Array|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/659_Split%20Array%20into%20Consecutive%20Subsequences.java)
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/429_N-ary%20Tree%20Level%20Order%20Traversal.java)|
 
