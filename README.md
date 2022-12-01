@@ -1,4 +1,4 @@
-<h1>Java Solutions for Leetcode ( it's just my personal learning repo. )<h1>   
+<h1>Java Solutions for Leetcode Questions<h1>   
 <h3>Hello!!!</h3>
 
 <h4> --> If you like this repo. then drop a star and don't forget to follow me ! </h4>
