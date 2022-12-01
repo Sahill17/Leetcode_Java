@@ -29,5 +29,6 @@
 |1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|Array|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/1338_Reduce%20Array%20Size%20to%20The%20Half.java)|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|Array|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/659_Split%20Array%20into%20Consecutive%20Subsequences.java)
 |871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|Array, DP|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/871_Minimum%20Number%20of%20Refueling%20Stops.java)
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|Array, String|Esay|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Esay/1773_Count%20Items%20Matching%20a%20Rule.java)
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/429_N-ary%20Tree%20Level%20Order%20Traversal.java)|
 
