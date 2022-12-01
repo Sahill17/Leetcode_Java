@@ -1,7 +1,7 @@
 <h1>Java Solutions for Leetcode ( it's just my personal learning repo. )<h1>   
 <h3>Hello!!!</h3>
 
-   <h4> If you like this repo. then drop a star and don't forget to follow me ! </h4>
+<h4> If you like this repo. then drop a star and don't forget to follow me ! </h4>
 <h5> You can refer to this Que. ans Ans. if you are beginner willing to start solving leetcode problems. </h5>
 <h5>Remember , these are just my submissions on leetcode for problems. i'm currently learning DSA , it's not proper solution guid if that's what you are looking for.</h5>
    
