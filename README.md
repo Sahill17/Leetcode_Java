@@ -34,6 +34,7 @@
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Array, Matrix|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/832_Flipping%20an%20Image.java)
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|LinkedList, Two Pointer, Recursion, Stack|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/234.%20Palindrome%20Linked%20List.java) 
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|Math, Bit Manipulation, Recursion|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/342.%20Power%20of%20Four.java)
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/description/)|Math, Recursion|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/326.%20Power%20of%20Three.java)
 |936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/)|String, Stack, Greedy, Queue|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/936.%20Stamping%20The%20Sequence.java)
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/429_N-ary%20Tree%20Level%20Order%20Traversal.java)|
 
