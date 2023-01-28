@@ -32,5 +32,6 @@
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|Array, String|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1773_Count%20Items%20Matching%20a%20Rule.java)
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|Array, Prfix Sum|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1732_Find%20the%20Highest%20Altitude.java)
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Array, Matrix|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/832_Flipping%20an%20Image.java)
+|936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/)|String, Stack, Greedy, Queue|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/936.%20Stamping%20The%20Sequence.java)
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/429_N-ary%20Tree%20Level%20Order%20Traversal.java)|
 
