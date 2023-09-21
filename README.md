@@ -1,9 +1,7 @@
 <h1>Java Solutions for Leetcode Questions<h1>   
-<!-- <h3>Hello !!!!!</h3> -->
-   <!-- <h4> Welcome to contributers.</h4> -->
-<h4>If you like this repository then drop a star and don't forget to follow me ! </h4>
-<h5> You can refer to this Que. ans Ans. if you are beginner and willing to start solving leetcode problems. </h5>
-<!-- <h5>Remember , these are just my submissions on leetcode for problems. i'm currently learning DSA , it's not proper solution guid if that's what you are looking for.</h5> -->
+If you like this repository then drop a star and don't forget to follow me !
+You can refer to this Que. ans Ans. if you are beginner and willing to start solving leetcode problems.
+
    
    <h2>Problems & Solutiuons</h2> 
 
