@@ -1,6 +1,6 @@
-<h1>Java Solutions for Leetcode Questions<h1>   
-If you like this repository then drop a star and don't forget to follow me !
-You can refer to this Que. ans Ans. if you are beginner and willing to start solving leetcode problems.
+<h1>Java Solutions for Leetcode Questions</h1>   
+<h4>If you like this repository then drop a star and don't forget to follow me !</h4>
+<h4>You can refer to this Que. ans Ans. if you are beginner and willing to start solving leetcode problems.</h4>
 
    
    <h2>Problems & Solutiuons</h2> 
