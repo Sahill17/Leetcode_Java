@@ -118,6 +118,7 @@ Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|Array, Binary Search|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/1095_Find%20in%20Mountain%20Array.java)|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Array, Binary Search, Prefix Sum|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/410_Split%20Array%20Largest%20Sum.java)|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Array, Binary Search|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/4_Median%20of%20Two%20Sorted%20Arrays.java)|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Two Pointers, Sorting, Heap(PQ), Data Stream|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/295_findMedianFromDataStream.java)|
 <!-- |936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/)|String, Stack, Greedy, Queue|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/936.%20Stamping%20The%20Sequence.java)| -->
 
 
