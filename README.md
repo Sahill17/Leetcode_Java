@@ -24,6 +24,7 @@ Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull
 | --- | --- | --- | --- | --- |
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|Math|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/2235_%20Add%20Two%20Integers.java)|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Loops, Math|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1281_Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/338.Counting_Bits.java)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|Math, Loops|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/9_Palindrome%20Number.java)|
 |1|[Two-Sum](https://leetcode.com/problems/two-sum/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1_Two%20Sum.java)|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/561_Array%20Partition.java)|
