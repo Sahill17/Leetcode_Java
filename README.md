@@ -12,7 +12,11 @@ Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull
 - Create a pull request.
 - Star this repository.
 
-Make sure to keep your work clean and well-structured otherwise, your PR won't be merged.
+<h2>Rules</h2>
+
+- Keep your work clean and well-structured otherwise, your PR won't be merged.
+- Don't forget to add the Question's Details (i.e. `Que. No (#), Problem, Category, Difficulty` ) and Link in the `README.md` file. Answer's Link will be added after the PR is merged.
+- Spams will not be tolerated, do not send random codes here.
 
 <h2>Problems & Solutiuons</h2> 
 
