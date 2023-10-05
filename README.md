@@ -1,9 +1,20 @@
 <h1>Java Solutions for Leetcode Questions</h1>   
 <h4>If you like this repository then drop a star and don't forget to follow me !</h4>
-<h4>You can refer to this Que. ans Ans. if you are beginner and willing to start solving leetcode problems.</h4>
 
-   
-   <h2>Problems & Solutiuons</h2> 
+Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull requests (PRs) b/w October 1st-31st to win some Digital Swags and to start your Open source Jourey.
+
+<h2>Instructions</h2>
+
+- Fork this Repo.
+- Clone your forked repo to PC ( `git clone <URL>` )
+- Create a new branch for sharing your codes and files. ( `git branch <name>` )
+- Add your files ( `git add -A` ), commit your changes ( `git commit -m "my contribution"` ), and push ( `git push origin <name>`)
+- Create a pull request.
+- Star this repository.
+
+Make sure to keep your work clean and well-structured otherwise, your PR won't be merged.
+
+<h2>Problems & Solutiuons</h2> 
 
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
