@@ -7,11 +7,9 @@
 
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
-<!-- Math, Loops -->
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|Math|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/2235_%20Add%20Two%20Integers.java)|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Loops, Math|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1281_Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|Math, Loops|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/9_Palindrome%20Number.java)|
-<!-- Array, Loops, Sorting -->
 |1|[Two-Sum](https://leetcode.com/problems/two-sum/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1_Two%20Sum.java)|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/561_Array%20Partition.java)|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1295_Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|
@@ -52,7 +50,6 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Array (Without DP)|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/121_Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Array, Hash Table|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/448_Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java)|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|Array, Hash Table, Bit Manipulation, Sorting|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/645_Set%20Mismatch.java)|
-<!-- BS -->
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|Array, Binary Search|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/704_Binary%20Search.java)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|Math, Binary Search|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/69_Sqrt(x).java)|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Binary Search|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/374_Guess%20Number%20Higher%20or%20Lower.java)|
@@ -65,7 +62,6 @@
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|Array, Binary Search|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/441_Arranging%20Coins.java)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Array, Binary Search|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/35_Search%20Insert%20Position.java)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Array, Moore Voting Algorithm|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/169_Majority%20Element.java)|
-<!-- Strings -->
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|String|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1108_Defanging%20an%20IP%20Address.java)|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|Strings|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/520_Detect%20Capital.java)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers, String|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/344_Reverse%20String.java)|
@@ -74,12 +70,9 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|String, Hash Table, Math|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/13_Roman%20to%20Integer.java)|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|String, Two Pointers|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1768_Merge%20Strings%20Alternately.java)|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|Array, String|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1528_Shuffle%20String.java)|
-<!-- Medium -->
-<!-- Math , Loops -->
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Math, Loops|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/7_Reverse%20Integer.java)|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|Math, Loops|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/172_Factorial%20Trailing%20Zeroes.java)|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|Math, Loops (Without Recursion)|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/50_Pow(x,n).java)|
-<!-- Array -->
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|Math, Sorting|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/869_Reordered%20Power%20of%202.java)|
 |1338|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|Array|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/1338_Reduce%20Array%20Size%20to%20The%20Half.java)|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|Array|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/659_Split%20Array%20into%20Consecutive%20Subsequences.java)|
@@ -91,7 +84,6 @@
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|Array (Without DP)|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/1493_Longest%20Subarry%20of%201's%20After%20Deleting%20One%20Element.java)|
 |442|[Find All Duplicate in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Array, Hash Table|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/442_Find%20All%20Duplicate%20in%20an%20Array.java)|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Array, Math, Two Pointers|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/189_Rotate%20Array.java)|
-<!-- BS -->
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Array, Binary Search|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/34_Find%20First%20ans%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|Array, Binary Search|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/852_Peak%20Index%20in%20a%20Mountain%20Array.java)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Array, Binary Search|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/162_Find%20Peak%20Element.java)|
@@ -104,13 +96,9 @@
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|Array, Binary Search, Prefix Sum, SW|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/209_Minimum%20Size%20Subarray%20Sum.java)|
 |2300|[Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|Array, Binary Search, Sorting, Two Pointers|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/2300_Successful%20Pairs%20of%20Spells%20and%20Potions.java)|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Array, Binary Search, Two Pointers, Bit Manipulation|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/287_Find%20the%20Duplicate%20Number.java)|
-<!-- |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree|Medium|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Medium/429_N-ary%20Tree%20Level%20Order%20Traversal.java)| -->
-<!-- Hard -->
-<!-- Array & Sorting -->
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|Array, Binary Search, Matrix, Prefix Sum, Ordered Set|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/363_Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.java)|
 |871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|Array, DP|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/871_Minimum%20Number%20of%20Refueling%20Stops.java)|
 |41|[First Missing Number](https://leetcode.com/problems/first-missing-positive/)|Array, Hash Table|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/41_First%20Missing%20Number.java)|
-<!-- BS -->
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|Array, Binary Search|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/1095_Find%20in%20Mountain%20Array.java)|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Array, Binary Search, Prefix Sum|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/410_Split%20Array%20Largest%20Sum.java)|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Array, Binary Search|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/4_Median%20of%20Two%20Sorted%20Arrays.java)|
