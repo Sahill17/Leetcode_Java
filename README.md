@@ -22,6 +22,7 @@ Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull
 
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
+|343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|Math,Dynamic Programming|Medium|[Solution](https://leetcode.com/problems/integer-break/submissions/1068469856/)|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|Math|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/2235_%20Add%20Two%20Integers.java)|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Loops, Math|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1281_Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/338.Counting_Bits.java)|
