@@ -1,7 +1,7 @@
 <h1>Java Solutions for Leetcode Questions [ Hacktoberfest2023 ]</h1>   
 <h4>If you like this repository then drop a star and don't forget to follow me !</h4>
 
-Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull requests (PRs) b/w October 1st-31st to win some Digital Swags and to start your Open source journey.
+<!-- Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull requests (PRs) b/w October 1st-31st to win some Digital Swags and to start your Open source journey.
 
 <h2>Instructions</h2>
 
@@ -16,7 +16,8 @@ Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull
 
 - Keep your work clean and well-structured otherwise, your PR won't be merged.
 - Don't forget to add the Question's Details (i.e. `Que. No (#), Problem, Category, Difficulty` ) and Link in the `README.md` file. Answer's Link will be added after the PR is merged.
-- Spams will not be tolerated, do not send random codes here.
+- Spams will not be tolerated, do not send random codes here. -->
+
 
 <h2>Problems & Solutiuons</h2> 
 
