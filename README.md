@@ -1,4 +1,4 @@
-<h1>Java Solutions for Leetcode Questions [ Hacktoberfest2023 ]</h1>   
+<h1>Java Solutions for Leetcode Questions</h1>   
 <h4>If you like this repository then drop a star and don't forget to follow me !</h4>
 
 <!-- Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull requests (PRs) b/w October 1st-31st to win some Digital Swags and to start your Open source journey.
