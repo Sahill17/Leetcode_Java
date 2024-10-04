@@ -1,25 +1,10 @@
 <h1>Java Solutions for Leetcode Questions</h1>   
 <h4>If you like this repository then drop a star and don't forget to follow me !</h4>
 
-<!-- Register [here](https://hacktoberfest.com/) for Hacktoberfest and make four pull requests (PRs) b/w October 1st-31st to win some Digital Swags and to start your Open source journey.
+* [Math | Loops](#math-loops)
+* [Arrays](#arrays)
 
-<h2>Instructions</h2>
-
-- Fork this Repo.
-- Clone your forked repo to PC ( `git clone <URL>` )
-- Create a new branch for sharing your codes and files. ( `git branch <name>` )
-- Add your files ( `git add -A` ), commit your changes ( `git commit -m "my contribution"` ), and push ( `git push origin <name>`)
-- Create a pull request.
-- Star this repository.
-
-<h2>Rules</h2>
-
-- Keep your work clean and well-structured otherwise, your PR won't be merged.
-- Don't forget to add the Question's Details (i.e. `Que. No (#), Problem, Category, Difficulty` ) and Link in the `README.md` file. Answer's Link will be added after the PR is merged.
-- Spams will not be tolerated, do not send random codes here. -->
-
-
-<h2>Problems & Solutiuons</h2> 
+## Math | Loops
 
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
@@ -27,6 +12,11 @@
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|Loops, Math|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1281_Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/338.Counting_Bits.java)|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|Math, Loops|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/9_Palindrome%20Number.java)|
+
+## Arrays
+
+| # | Problem | Category | Difficulty | Solution |
+| --- | --- | --- | --- | --- |
 |1|[Two-Sum](https://leetcode.com/problems/two-sum/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1_Two%20Sum.java)|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/561_Array%20Partition.java)|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1295_Find%20Numbers%20with%20Even%20Number%20of%20Digits.java)|
@@ -121,6 +111,5 @@
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Array, Binary Search, Prefix Sum|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/410_Split%20Array%20Largest%20Sum.java)|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Array, Binary Search|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/4_Median%20of%20Two%20Sorted%20Arrays.java)|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Two Pointers, Sorting, Heap(PQ), Data Stream|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/295_findMedianFromDataStream.java)|
-<!-- |936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/)|String, Stack, Greedy, Queue|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/936.%20Stamping%20The%20Sequence.java)| -->
 
 
