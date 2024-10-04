@@ -113,3 +113,5 @@
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Two Pointers, Sorting, Heap(PQ), Data Stream|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/295_findMedianFromDataStream.java)|
 
 
+## Trees
+|1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value)|Tree, Depth-First Search, Binary Tree|Hard|[Solution](https://github.com/Krounosity/Leetcode_Java/blob/main/Medium/1325_Delete_Leaves_With_a_Given_Value.java)|
