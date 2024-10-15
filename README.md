@@ -3,6 +3,7 @@
 
 * [Math | Loops](#math-loops)
 * [Arrays](#arrays)
+* [Strings](#strings)
 
 ## Math | Loops
 
@@ -24,7 +25,6 @@
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1920_Build%20Array%20from%20Permutation.java)|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1929_Concatenation%20of%20Array.java)|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1480_Running%20Sum%20of%201d%20Array.java)|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/387_First%20Unique%20Character%20in%20a%20String.java)|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1470_Shuffle%20the%20Array.java)|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/804_Unique%20Morse%20Code%20Words.java)|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1512_Number%20of%20Good%20Pairs.java)|
@@ -112,4 +112,7 @@
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Array, Binary Search|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/4_Median%20of%20Two%20Sorted%20Arrays.java)|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Two Pointers, Sorting, Heap(PQ), Data Stream|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/295_findMedianFromDataStream.java)|
 
+## Strings
+
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/387_First%20Unique%20Character%20in%20a%20String.java)|
 
