@@ -114,5 +114,7 @@
 
 ## Strings
 
+| # | Problem | Category | Difficulty | Solution |
+| --- | --- | --- | --- | --- |
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/387_First%20Unique%20Character%20in%20a%20String.java)|
 
