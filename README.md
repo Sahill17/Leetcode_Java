@@ -110,11 +110,10 @@
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|Array, Binary Search|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/1095_Find%20in%20Mountain%20Array.java)|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Array, Binary Search, Prefix Sum|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/410_Split%20Array%20Largest%20Sum.java)|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Array, Binary Search|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/4_Median%20of%20Two%20Sorted%20Arrays.java)|
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Two Pointers, Sorting, Heap(PQ), Data Stream|Hard|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Hard/295_findMedianFromDataStream.java)|
 
 ## Strings
 
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/387_First%20Unique%20Character%20in%20a%20String.java)|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Strings, Hash Table|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/387_First%20Unique%20Character%20in%20a%20String.java)|
 
