@@ -26,7 +26,7 @@
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1929_Concatenation%20of%20Array.java)|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1480_Running%20Sum%20of%201d%20Array.java)|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1470_Shuffle%20the%20Array.java)|
-|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/804_Unique%20Morse%20Code%20Words.java)|
+|804 *|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Array,Hash Table|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/804_Unique%20Morse%20Code%20Words.java)|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1512_Number%20of%20Good%20Pairs.java)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/485_Max%20Consecutive%20Ones.java)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)|
