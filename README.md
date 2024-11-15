@@ -26,15 +26,14 @@
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1929_Concatenation%20of%20Array.java)|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1480_Running%20Sum%20of%201d%20Array.java)|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1470_Shuffle%20the%20Array.java)|
-|804 *|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Array,Hash Table|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/804_Unique%20Morse%20Code%20Words.java)|
+|804*|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|Array,Hash Table|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/804_Unique%20Morse%20Code%20Words.java)|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1512_Number%20of%20Good%20Pairs.java)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/485_Max%20Consecutive%20Ones.java)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Array, Sorting, Hash Table|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1365_How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)|
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|Array, ArrayList|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1389_Create%20Target%20Array%20in%20the%20Given%20Order.java)|
-|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|Array|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1832_Check%20if%20the%20Sentence%20Is%20Pangram.java)|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|Array, String|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1773_Count%20Items%20Matching%20a%20Rule.java)|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|Array, Prfix Sum|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1732_Find%20the%20Highest%20Altitude.java)|
-|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Array, Matrix|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/832_Flipping%20an%20Image.java)|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|Array, Matrix, Two pointers|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/832_Flipping%20an%20Image.java)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|LinkedList, Two Pointer, Recursion, Stack|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/234.%20Palindrome%20Linked%20List.java)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/)|Math, Bit Manipulation, Recursion|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/342.%20Power%20of%20Four.java)|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|Hash Table, Counting, String|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/383.%20Ransom%20Note.java)|
@@ -116,4 +115,6 @@
 | # | Problem | Category | Difficulty | Solution |
 | --- | --- | --- | --- | --- |
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Strings, Hash Table|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/387_First%20Unique%20Character%20in%20a%20String.java)|
+|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|Strings, Hash Table|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1832_Check%20if%20the%20Sentence%20Is%20Pangram.java)|
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|Array, String|Easy|[Solution](https://github.com/SahilRathod17/Leetcode_Java/blob/main/Easy/1773_Count%20Items%20Matching%20a%20Rule.java)|
 

@@ -15,3 +15,18 @@ class Solution {
         
     }
 }
+
+// Python
+
+/*
+class Solution(object):
+    def checkIfPangram(self, sentence):
+        """
+        :type sentence: str
+        :rtype: bool
+        """
+        if(len(sentence) < 26):
+            return False
+        else:
+            return set("abcdefghijklmnopqrstuvwxyz").issubset(set(sentence))
+ */
